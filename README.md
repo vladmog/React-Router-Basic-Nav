@@ -1,7 +1,7 @@
 # React Router Basic Nav
 
 Topics:
-
+ 
 * Single Page Applications
 * React Router V4 (react-router-dom)
 * Routing, declarative component based routing
